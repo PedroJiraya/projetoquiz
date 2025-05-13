@@ -48,5 +48,6 @@ function finishQuiz(){
 
 function reiniciar (){
     currentQuestion = 0;
+    correctAnswers = 0;
     showQuestion()
 }
